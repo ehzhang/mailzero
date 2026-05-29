@@ -561,6 +561,10 @@ h3 {
   place-items: center;
   border: 1px solid #c7bfae;
   border-radius: 8px;
+  font-size: 1.25rem;
+  font-weight: 750;
+  line-height: 1;
+  transform: translateY(-1px);
 }
 
 .answer {
