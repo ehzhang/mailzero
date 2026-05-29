@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MailZero favicon">
+  <rect width="64" height="64" rx="12" fill="#0e4d3e"/>
+  <path d="M14 20h36v24H14z" fill="#fbfaf6"/>
+  <path d="m14 20 18 14 18-14M14 44l14-13M50 44 36 31" fill="none" stroke="#13795b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="18" r="8" fill="#f4c95d"/>
+</svg>
